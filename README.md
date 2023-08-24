@@ -2,7 +2,10 @@
 
 Welcome to myTwitterVersion, a simple Twitter-like web application built using HTML, JavaScript, and CSS. This application allows users to post tweets, view them in a feed, and interact with other users' tweets.
 
-## Features
+## Screenshots
+
+![Screenshot 1](images/twitter.png)
+*Caption for Screenshot 1*
 
 - Post tweets with a character limit.
 - View the list of posted tweets in a feed.
@@ -15,3 +18,6 @@ Welcome to myTwitterVersion, a simple Twitter-like web application built using H
 
 ```bash
 git clone https://github.com/sack-ali/myTwitterVersion.git
+
+
+
